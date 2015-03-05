@@ -1,0 +1,15 @@
+@font-face {
+  [font-family: <family-name>;]?
+  [src: [ <uri> [format(<string>#)]? | <font-face-name> ]#;]?
+  [unicode-range: <urange>#;]?
+  [font-variant: <font-variant>;]?
+  [font-feature-settings: normal|<feature-tag-value>#;]?
+  [font-stretch: <font-stretch>;]?
+  [font-weight: <weight>];
+  [font-style: <style>];
+}
+
+{
+	font-family: ‘Metrophobic’, Arial, serif; font-weight: 400;
+}
+
