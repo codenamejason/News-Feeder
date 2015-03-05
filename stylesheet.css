@@ -1,11 +1,11 @@
 @font-face {
-  [font-family: <family-name>;]?
+  font-family: Metrophobic, Arial, serif;
   [src: [ <uri> [format(<string>#)]? | <font-face-name> ]#;]?
   [unicode-range: <urange>#;]?
   [font-variant: <font-variant>;]?
   [font-feature-settings: normal|<feature-tag-value>#;]?
   [font-stretch: <font-stretch>;]?
-  [font-weight: <weight>];
+  font-weight: 400;
   [font-style: <style>];
 }
 
