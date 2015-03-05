@@ -9,7 +9,10 @@
   [font-style: <style>];
 }
 
-{
+body {
 	font-family: ‘Metrophobic’, Arial, serif; font-weight: 400;
 }
 
+h1 {
+    text-align: center;
+}
