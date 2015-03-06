@@ -1,9 +1,7 @@
 @font-face {
   font-family: Metrophobic, Arial, serif;
   [src: [ <uri> [format(<string>#)]? | <font-face-name> ]#;]?
-  [unicode-range: <urange>#;]?
-  [font-variant: <font-variant>;]?
-  [font-feature-settings: normal|<feature-tag-value>#;]?
+  font-feature-settings: normal;
   [font-stretch: <font-stretch>;]?
   font-weight: 400;
   [font-style: <style>];
@@ -11,6 +9,7 @@
 
 body {
 	font-family: ‘Metrophobic’, Arial, serif; font-weight: 400;
+    background-color: darkslategray;
 }
 
 h1 {
