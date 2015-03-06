@@ -1,2 +1,2 @@
-var Feed = angular.module('myFeed', []);
+var app = angular.module('myFeed', []);
 
